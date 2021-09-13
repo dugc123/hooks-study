@@ -1,7 +1,5 @@
 import React, { useEffect, useState } from "react"
 
-
-
 export default ()=>{
     const [count,setCount] = useState(0);
 
